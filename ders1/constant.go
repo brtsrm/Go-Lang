@@ -16,4 +16,6 @@ func PrintBrand(brand Brand) {
 
 func main() {
 	PrintBrand(FACEBOOK)
+	PrintBrand(MICROSOFT)
+	PrintBrand(GOOGLE)
 }
